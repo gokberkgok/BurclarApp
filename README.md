@@ -10,8 +10,7 @@ ArrayAdapter ile liste bağlama
 
 Bitmap ler ile Resimleri decodelama ve gösterme
 
-
-
+Kullanılan Dil : JAVA
 
 
 
