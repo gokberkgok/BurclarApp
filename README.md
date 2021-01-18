@@ -1,7 +1,7 @@
 # BurclarApp
 Android için Burçlar Listesi App
 
-ListView ile 12 burcu ekranda gösterme
+ListView ile 12 burcu ekranda gösterme tıklanıldığında burcun ismi , resmi ve özelliği yazmaktadır
 
 Intent ile Sayfa Arası veri aktarımı Singleton ile veri gönderimlerini ayarlama
 
